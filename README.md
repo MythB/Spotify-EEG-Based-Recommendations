@@ -8,7 +8,7 @@ This project simply makes music suggestions according to the level of liking of 
 
 <h2>How it works?</h2>
 
-![](https://github.com/MythB/Spotify-EEG-Based-Recommendations/blob/main/Media/n-predict%20flow.jpg)
+![](https://github.com/MythB/Spotify-EEG-Based-Recommendations/blob/main/Media/flowchart.png)
 <h2>Prerequisites</h2>
 
 <a href="https://www.python.org/downloads/windows/">Python3</a> <br />
